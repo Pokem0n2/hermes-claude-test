@@ -1,0 +1,15 @@
+D:\claude\hermes-claude-test\hct-winforms\bin\Release\net8.0-windows\win-x64\hct.exe
+D:\claude\hermes-claude-test\hct-winforms\bin\Release\net8.0-windows\win-x64\hct.deps.json
+D:\claude\hermes-claude-test\hct-winforms\bin\Release\net8.0-windows\win-x64\hct.runtimeconfig.json
+D:\claude\hermes-claude-test\hct-winforms\bin\Release\net8.0-windows\win-x64\hct.dll
+D:\claude\hermes-claude-test\hct-winforms\bin\Release\net8.0-windows\win-x64\hct.pdb
+D:\claude\hermes-claude-test\hct-winforms\obj\Release\net8.0-windows\win-x64\hct-winforms.GeneratedMSBuildEditorConfig.editorconfig
+D:\claude\hermes-claude-test\hct-winforms\obj\Release\net8.0-windows\win-x64\hct-winforms.AssemblyInfoInputs.cache
+D:\claude\hermes-claude-test\hct-winforms\obj\Release\net8.0-windows\win-x64\hct-winforms.AssemblyInfo.cs
+D:\claude\hermes-claude-test\hct-winforms\obj\Release\net8.0-windows\win-x64\hct-winforms.csproj.CoreCompileInputs.cache
+D:\claude\hermes-claude-test\hct-winforms\obj\Release\net8.0-windows\win-x64\hct-winforms.sourcelink.json
+D:\claude\hermes-claude-test\hct-winforms\obj\Release\net8.0-windows\win-x64\hct.dll
+D:\claude\hermes-claude-test\hct-winforms\obj\Release\net8.0-windows\win-x64\refint\hct.dll
+D:\claude\hermes-claude-test\hct-winforms\obj\Release\net8.0-windows\win-x64\hct.pdb
+D:\claude\hermes-claude-test\hct-winforms\obj\Release\net8.0-windows\win-x64\hct-winforms.genruntimeconfig.cache
+D:\claude\hermes-claude-test\hct-winforms\obj\Release\net8.0-windows\win-x64\ref\hct.dll

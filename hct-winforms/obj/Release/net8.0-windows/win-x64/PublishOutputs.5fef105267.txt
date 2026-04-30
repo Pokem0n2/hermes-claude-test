@@ -1,0 +1,2 @@
+D:\claude\hermes-claude-test\dist\hct.pdb
+D:\claude\hermes-claude-test\dist\hct.exe
