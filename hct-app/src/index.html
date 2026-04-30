@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>HCT - Hotkey Configuration Tool</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <h1>HCT</h1>
+    <div class="grid" id="buttonGrid"></div>
+  </div>
+
+  <div class="modal" id="editModal">
+    <div class="modal-content">
+      <h2 id="modalTitle">设置按钮</h2>
+      <div class="form-group">
+        <label for="nameInput">名称:</label>
+        <input type="text" id="nameInput" placeholder="输入名称" maxlength="20">
+      </div>
+      <div class="form-group">
+        <label for="linkInput">链接:</label>
+        <input type="text" id="linkInput" placeholder="输入URL链接" maxlength="500">
+      </div>
+      <div class="modal-buttons">
+        <button id="saveBtn" class="btn-primary">保存</button>
+        <button id="cancelBtn" class="btn-secondary">取消</button>
+        <button id="deleteBtn" class="btn-danger">删除</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="main.js"></script>
+</body>
+</html>
